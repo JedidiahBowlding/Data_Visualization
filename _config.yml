@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tower Builder
+title: Power Builder
 
 # Logo image
 image: tb-logo.png
 
 #Description of your site
 description: >-
-  TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge.
+  PowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge.
 
 # Allow top menu: true or false
 top_menu: true
@@ -77,7 +77,7 @@ type_contract_title: Type of contract
 type_contract_title_tooltip: The law requires that the Buyer defines the type of contract because the rules vary in each case.
 type_contract_all_option: All
 type_procedure_title: Type of procedure
-type_procedure_title_tooltip: La licitación pública es según la ley mexicana el procedimiento adecuado para contratar obra publica. Excepcionalmente también se pueden realizar otro tipo de procedimientos como adjudicación directa, convenio e invitación a cuando menos tres proveedores.
+type_procedure_title_tooltip: According to United States law, public bidding is the appropriate procedure for contracting public works. Exceptionally, other types of procedures such as direct award, agreement and invitation to at least three suppliers can also be carried out.
 type_procedure_all_option: All
 date_range_title: Date range
 date_range_from_placeholder: From
